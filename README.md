@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :sparkles: Reinventing wheel: [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp), [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
-- ~~Awesome~~ Useless Project: [Lagrangian-Interpolation-Polynomial-Generator](https://github.com/CWKSC/Lagrangian-Interpolation-Polynomial-Generator), [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)[MultipleThreadPdfConverter](https://github.com/CWKSC/MultipleThreadPdfConverter) 
+- :sparkles: Reinventing Wheel: [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp), [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
+- :star2: ~~Awesome~~ Useless Project: 
+  - [Lagrangian-Interpolation-Polynomial-Generator](https://github.com/CWKSC/Lagrangian-Interpolation-Polynomial-Generator)
+  - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
+  - [MultipleThreadPdfConverter](https://github.com/CWKSC/MultipleThreadPdfConverter) 
 - :star: Blog: [cwksc.github.io](https://cwksc.github.io/)
 - 📫 How to reach me: [Twitter](https://twitter.com/CwkscP), [Instagram](https://www.instagram.com/cwksc/)
 
