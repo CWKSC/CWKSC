@@ -1,6 +1,6 @@
 ### Hi there 👋 I am CWKSC
 
-Programming Language: C#, C, C++, Java, js, Haskell
+Programming Language: C#, C, C++, Java, js
 
 - :sparkles: Reinventing Wheel: [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp), [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
 - :star: ~~Awesome~~ Useless Project: 
