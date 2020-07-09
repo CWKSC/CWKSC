@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :sparkles: Reinventing wheel: [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp), [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
+- :star: Blog: [cwksc.github.io](https://cwksc.github.io/)
+- 📫 How to reach me: [Twitter](https://twitter.com/CwkscP), [Instagram](https://www.instagram.com/cwksc/)
+
