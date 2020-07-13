@@ -2,7 +2,7 @@
 
 Programming Language: C#, C, C++, Java, js
 
-- :sparkles: Reinventing Wheel: [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp), [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
+- :sparkles: MyLib / Reinventing Wheel: [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp), [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
 - :star: ~~Awesome~~ Useless Project: 
   - [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) 
   - [Lagrangian-Interpolation-Polynomial-Generator](https://github.com/CWKSC/Lagrangian-Interpolation-Polynomial-Generator)
