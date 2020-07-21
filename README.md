@@ -5,7 +5,7 @@ Programming Language: C#, C, C++, Java, js
 - :sparkles: MyLib / Reinventing Wheel: [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp), [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
 - :star: ~~Awesome~~ Useless Project: 
   - [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) 
-  - [Lagrangian-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial)
+  - [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial)
   - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
 - :book: Blog: [cwksc.github.io](https://cwksc.github.io/)
 - 📫 How to reach me: [Twitter](https://twitter.com/CwkscP), [Instagram](https://www.instagram.com/cwksc/)
