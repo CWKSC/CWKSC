@@ -3,9 +3,21 @@
 Programming Language: C#, C, C++, Java, js, Haskell
 
 
-| :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/) <br/><br /> :sparkles: MyLib / Reinventing Wheel: <br /> [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp)  <br /> [MacroLib](https://github.com/CWKSC/MacroLib)  <br /> [MyLib_Cpp_Macro](https://github.com/CWKSC/MyLib_Cpp_Macro)<br /> [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)<br /><br /> :star: ~~Awesome~~ Useless Project:   <br />[MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter)  <br /> [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial) <br /> [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)  <br /> [HKIVE-GSD-SDP-Point-Card-System](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System)  <br /> [HKIVE-GSD-SnakeGame](https://github.com/CWKSC/HKIVE-GSD-SnakeGame)  <br /> . . . and more!<br /><br />  ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) to know me more OW<<br /><br />  📫 How to reach me: [Twitter](https://twitter.com/CwkscP), [Instagram](https://www.instagram.com/cwksc/) |  ![](https://github-readme-stats.vercel.app/api?username=cwksc)  |
-| :----------------------------------------------------------: | ---- |
-|                                                              |      |
+- :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
+- :sparkles: MyLib / Reinventing Wheel: 
+  - [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp)
+  - [MacroLib](https://github.com/CWKSC/MacroLib)
+  - [MyLib_Cpp_Macro](https://github.com/CWKSC/MyLib_Cpp_Macro)
+  - [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
+- :star: ~~Awesome~~ Useless Project: 
+  - [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) 
+  - [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial)
+  - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
+  - [HKIVE-GSD-SDP-Point-Card-System](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System)
+  - [HKIVE-GSD-SnakeGame](https://github.com/CWKSC/HKIVE-GSD-SnakeGame)
+  - . . . and more!
+- ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) to know me more OW<
+- 📫 How to reach me: [Twitter](https://twitter.com/CwkscP), [Instagram](https://www.instagram.com/cwksc/)
 
 
 
