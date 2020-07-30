@@ -2,7 +2,12 @@
 
 Programming Language: C#, C, C++, Java, js
 
-- :sparkles: MyLib / Reinventing Wheel: [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp), [MacroLib](https://github.com/CWKSC/MacroLib), [MyLib_Cpp_Macro](https://github.com/CWKSC/MyLib_Cpp_Macro), [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
+- :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
+- :sparkles: MyLib / Reinventing Wheel: 
+  - [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp)
+  - [MacroLib](https://github.com/CWKSC/MacroLib)
+  - [MyLib_Cpp_Macro](https://github.com/CWKSC/MyLib_Cpp_Macro)
+  - [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
 - :star: ~~Awesome~~ Useless Project: 
   - [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) 
   - [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial)
@@ -11,7 +16,6 @@ Programming Language: C#, C, C++, Java, js
   - [HKIVE-GSD-SnakeGame](https://github.com/CWKSC/HKIVE-GSD-SnakeGame)
   - . . . and more!
 - ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) to know me more OW<
-- :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
 - 📫 How to reach me: [Twitter](https://twitter.com/CwkscP), [Instagram](https://www.instagram.com/cwksc/)
 
 <!--
