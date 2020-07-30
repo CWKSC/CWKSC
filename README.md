@@ -1,6 +1,6 @@
 ### Hi there 👋 I am CWKSC
 
-Programming Language: C#, C, C++, Java, js
+Programming Language: C#, C, C++, Java, js, Haskell
 
 - :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
 - :sparkles: MyLib / Reinventing Wheel: 
