@@ -15,8 +15,7 @@ Programming Language: C#, C, C++, Java, js, Haskell
   - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
   - [HKIVE-GSD-SDP-Point-Card-System](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System)
   - [HKIVE-GSD-SnakeGame](https://github.com/CWKSC/HKIVE-GSD-SnakeGame)
-  - . . . and more!
-- ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) to know me more OW<
+  - . . . ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) for more! OW<
 - 📫 How to reach me: [Twitter](https://twitter.com/CwkscP), [Instagram](https://www.instagram.com/cwksc/)
 
 
