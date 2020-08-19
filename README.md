@@ -1,6 +1,6 @@
 ### Hi there 👋 I am CWKSC
 
-Nice to meet you meow OW<, now study in Hong Kong CityU CS Year 2
+Nice to meet you meow OW<, now study on Hong Kong CityU CS Year 2
 
 Learning C# | C | C++ | Java | js | Haskell | CommonLisp
 
