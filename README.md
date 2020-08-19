@@ -1,14 +1,13 @@
 ### Hi there 👋 I am CWKSC
 
+Nice to meet you meow OW<, study in Hong Kong CityU CS Year 2
+
 Programming Language: C#, C, C++, Java, js, Haskell
 
 
 - :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
 - :sparkles: MyLib / Reinventing Wheel: 
-  - [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp)
-  - [MacroLib](https://github.com/CWKSC/MacroLib)
-  - [MyLib_Cpp_Macro](https://github.com/CWKSC/MyLib_Cpp_Macro)
-  - [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
+  - [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) | [MacroLib](https://github.com/CWKSC/MacroLib) | [MyLib_Cpp_Macro](https://github.com/CWKSC/MyLib_Cpp_Macro) | [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
 - :star: ~~Awesome~~ Useless Project: 
   - [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) 
   - [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial)
