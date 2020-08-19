@@ -1,6 +1,8 @@
 ### Hi there 👋 I am CWKSC
 
-Nice to meet you meow OW<, study in Hong Kong CityU CS Year 2, Learning C# | C | C++ | Java | js | Haskell | CommonLisp
+Nice to meet you meow OW<, study in Hong Kong CityU CS Year 2
+
+Learning C# | C | C++ | Java | js | Haskell | CommonLisp
 
 - :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
 - :sparkles: MyLib / Reinventing Wheel: 
