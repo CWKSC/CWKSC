@@ -1,10 +1,10 @@
 ### Hi there 👋 I am CWKSC, Nice to meet you meow OW<
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=CWKSC" />
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=CWKSC" />
 
 Now studying in Hong Kong CityU CS Year 2
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWKSC&layout=compact&hide=SWIG" />
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWKSC&hide=SWIG" />
 
 Learning C# | C | C++ | Java | js | Haskell | CommonLisp
 
