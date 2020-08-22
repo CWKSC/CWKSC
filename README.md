@@ -1,6 +1,6 @@
 ### Hi there 👋 I am CWKSC, Nice to meet you meow OW<
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CWKSC&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CWKSC" />
 
 Now study on Hong Kong CityU CS Year 2
 
@@ -15,7 +15,7 @@ Learning C# | C | C++ | Java | js | Haskell | CommonLisp
   - . . . ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) for more! OW<
 - 📫 How to reach me: [Twitter](https://twitter.com/CwkscP), [Instagram](https://www.instagram.com/cwksc/)
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWKSC&layout=compact" />
 
 <!--
 **CWKSC/CWKSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
