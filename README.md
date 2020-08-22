@@ -1,6 +1,8 @@
-### Hi there 👋 I am CWKSC
+### Hi there 👋 I am CWKSC, Nice to meet you meow OW<
 
-Nice to meet you meow OW<, now study on Hong Kong CityU CS Year 2
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CWKSC&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
+
+Now study on Hong Kong CityU CS Year 2
 
 Learning C# | C | C++ | Java | js | Haskell | CommonLisp
 
