@@ -6,7 +6,7 @@ Now studying in Hong Kong CityU CS Year 2
 
 
 
-Learning C# | C | C++ | Java | js | Haskell | CommonLisp
+Learning C# | C | C++ | Java | js | Haskell | Common Lisp
 
 - :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
 - :sparkles: MyLib / Reinventing Wheel: 
