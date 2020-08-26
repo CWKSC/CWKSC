@@ -1,4 +1,4 @@
-### Hi there 👋 I am CWKSC, Nice to meet you meow OW<
+### Hi 👋 I am CWKSC, Nice to meet you meow OW<
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=CWKSC" />
 
