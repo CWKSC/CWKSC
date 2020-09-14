@@ -13,7 +13,8 @@ Learning C# | C | C++ | Java | js | Haskell | Common Lisp
   - [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) | [MacroLib](https://github.com/CWKSC/MacroLib)
   - [MyLib_Cpp_Macro](https://github.com/CWKSC/MyLib_Cpp_Macro) | [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
 - :star: ~~Awesome~~ Useless Project:  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWKSC&layout=compact&hide=SWIG,HTML,CSS" />
-  - [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) | [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial) 
+  - [TemplateGenerator](https://github.com/CWKSC/TemplateGenerator) | [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) 
+  - [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial) 
   - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
   - [HKIVE-GSD-SDP-Point-Card-System](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System) | [HKIVE-GSD-SnakeGame](https://github.com/CWKSC/HKIVE-GSD-SnakeGame)
   - . . . ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) for more! OW<
