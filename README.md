@@ -17,7 +17,7 @@ Learning C# | C | C++ | Java | js | Haskell | Common Lisp
   - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
   - [HKIVE-GSD-SDP-Point-Card-System](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System) | [HKIVE-GSD-SnakeGame](https://github.com/CWKSC/HKIVE-GSD-SnakeGame)
   - . . . ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) for more! OW<
-- 📫 How to reach me: [Twitter](https://twitter.com/CwkscP), [Instagram](https://www.instagram.com/cwksc/)
+- 📫 How to reach me: [Twitter](https://twitter.com/realCWKSC), [Instagram](https://www.instagram.com/cwksc/)
 
 
 <!--
