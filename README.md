@@ -16,7 +16,7 @@ Learning C# | C | C++ | Java | js | Haskell | Common Lisp
   - [TemplateGenerator](https://github.com/CWKSC/TemplateGenerator) | [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) | [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial) 
   - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
   - [HKIVE-GSD-SDP-Point-Card-System](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System) | [HKIVE-GSD-SnakeGame](https://github.com/CWKSC/HKIVE-GSD-SnakeGame)
-  - . . . ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) for more! OW<
+  - . . . ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) for more! O W <
 - 📫 How to reach me: [Twitter](https://twitter.com/realCWKSC), [Instagram](https://www.instagram.com/cwksc/)
 
 
