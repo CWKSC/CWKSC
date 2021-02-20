@@ -4,12 +4,14 @@
 
 Now studying in Hong Kong CityU CS Year 2
 
+
+
 - :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
 - :sparkles: MyLib / Reinventing Wheel: 
   - [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) | [MacroLib](https://github.com/CWKSC/MacroLib)
   - [MyLib_Cpp_Macro](https://github.com/CWKSC/MyLib_Cpp_Macro) | [MyLib_js](https://github.com/CWKSC/MyLib_js) | [MyLib_Unity](https://github.com/CWKSC/MyLib_Unity)
-- :star: ~~Awesome~~ Useless Project:  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWKSC&layout=compact&hide=SWIG,HTML,CSS,SCSS" />
-  - [TemplateGenerator](https://github.com/CWKSC/TemplateGenerator) | [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) | [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial) 
+- :star: ~~Awesome~~ Useless Project: 
+  - [TemplateGenerator](https://github.com/CWKSC/TemplateGenerator) | [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) | [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial)  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWKSC&layout=compact&hide=SWIG,HTML,CSS,SCSS" />
   - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
   - [HKIVE-GSD-SDP-Point-Card-System](https://github.com/CWKSC/HKIVE-GSD-SDP-Point-Card-System) | [HKIVE-GSD-SnakeGame](https://github.com/CWKSC/HKIVE-GSD-SnakeGame)
   - . . . ⚡ Looking at [MyGithubRepositories](https://github.com/CWKSC/MyGithubRepositories) for more! OW<
