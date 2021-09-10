@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=CWKSC" />
 
-Now studying in Hong Kong CityU CS Year 2
+Now studying in Hong Kong CityU CS Year 3
 
 
 
