@@ -14,6 +14,8 @@ Just graduated from Hong Kong CityU CS
   - [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial)   <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWKSC&layout=compact&hide=SWIG,HTML,CSS,SCSS&theme=react" />
   - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
   - [NaiveBayesClassifier](https://github.com/CWKSC/NaiveBayesClassifier)
+  - [destructfolder](https://github.com/CWKSC/destructfolder)
+  - [PythonVersionRouter](https://github.com/CWKSC/PythonVersionRouter)
 - 📫 How to reach me: [Twitter](https://twitter.com/realCWKSC), [Instagram](https://www.instagram.com/cwksc/)
 
 
