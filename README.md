@@ -13,8 +13,8 @@ Computer Science
 - :star: Project: 
   - [LLVMSharp_Kaleidoscope_ParserCombinater_backup](https://github.com/CWKSC/LLVMSharp_Kaleidoscope_ParserCombinater_backup)
   - [TemplateGenerator](https://github.com/CWKSC/TemplateGenerator)
-  - [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter) 
-  - [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial)   <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWKSC&layout=compact&hide=SWIG,HTML,CSS,SCSS&theme=react" />
+  - [MultipleTaskPdfConverter](https://github.com/CWKSC/MultipleTaskPdfConverter)   <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CWKSC&layout=compact&hide=SWIG,HTML,CSS,SCSS&theme=react" />
+  - [Lagrange-Polynomial](https://github.com/CWKSC/Lagrange-Polynomial) 
   - [N-order-determinant-calculation-macro-generator](https://github.com/CWKSC/N-order-determinant-calculation-macro-generator)
   - [NaiveBayesClassifier](https://github.com/CWKSC/NaiveBayesClassifier)
   - [destructfolder](https://github.com/CWKSC/destructfolder)
