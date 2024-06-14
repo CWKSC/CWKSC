@@ -2,7 +2,9 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=CWKSC&theme=react" />
 
-Graduated from City University of Hong Kong (CityU) Computer Science
+Graduated from City University of Hong Kong (CityU) 
+
+Computer Science
 
 - :book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
 - :sparkles: MyLib / Reinventing Wheel: 
