@@ -6,7 +6,7 @@ Graduated from City University of Hong Kong (CityU)
 
 Computer Science
 
-:book: Blog: [cwksc.github.io](https://cwksc.github.io/), [TranslateArticles](https://cwksc.github.io/TranslateArticles/)
+:book: Blog: [cwksc.github.io](https://cwksc.github.io/)
 
 :star: Project:
 - [kaleidoscope_llvmsharp_parsercombinater](https://github.com/CWKSC/kaleidoscope_llvmsharp_parsercombinater)
