@@ -1,6 +1,8 @@
-### Hi, here is CWKSC
+<!-- ### Hi, here is CWKSC -->
 
-[cwksc.github.io](https://cwksc.github.io/)
+Blog: [cwksc.github.io](https://cwksc.github.io/)
+
+YouTube: [@CwkscAlgo](https://www.youtube.com/@CwkscAlgo)
 
 <!--
 **CWKSC/CWKSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
